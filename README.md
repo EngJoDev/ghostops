@@ -51,7 +51,7 @@ When a Linux production server or development workstation degrades:
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/ghostops.git
+git clone https://github.com/EngJoDev/ghostops.git
 cd ghostops
 
 # Create virtual environment & install
@@ -168,3 +168,4 @@ Contributions are warmly welcomed! Please check out [CONTRIBUTING.md](CONTRIBUTI
 
 ## 📄 License
 This project is licensed under the [MIT License](LICENSE).
+

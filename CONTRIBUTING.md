@@ -9,7 +9,7 @@ Please be respectful, collaborative, and constructive in all discussions, pull r
 
 1. Fork and clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/ghostops.git
+   git clone https://github.com/EngJoDev/ghostops.git
    cd ghostops
    ```
 
@@ -36,3 +36,4 @@ Please be respectful, collaborative, and constructive in all discussions, pull r
 - Follow PEP 8 standards.
 
 Thank you for making GhostOps better! 🚀
+
