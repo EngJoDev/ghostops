@@ -20,6 +20,10 @@
 
 [Quickstart](#-quickstart) • [Features](#-key-features) • [Architecture](#-architecture) • [Security Sandbox](#-security--safety-sandbox) • [Roadmap](#-roadmap)
 
+<br/>
+
+<img src="assets/demo-top.png" alt="GhostOps Live Host Monitor" width="750" style="border-radius: 8px;"/>
+
 ---
 
 </div>
